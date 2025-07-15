@@ -1,7 +1,7 @@
 
 import React, { useState, useEffect } from 'react';
 import Topbuttons from './components/Topbuttons';
-import Inputs from './components/inputs';
+import Inputs from './components/Inputs';
 import TimeAndLocation from './components/TimeAndLocation';
 import TempAndDetails from './components/TempAndDetails';
 import Forecast from './components/Forecast';
