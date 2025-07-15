@@ -1,12 +1,31 @@
-# React + Vite
+# 🌦️ WeatherApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive weather forecast web app built using **React.js**, **Tailwind CSS**, and the **OpenWeatherMap API**. It allows users to search any city worldwide and view current weather conditions, temperature, humidity, and 5-day forecast.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🌍 Search weather by city name
+- 🌡️ View current temperature, humidity, wind speed
+- 📍 Displays weather by user's location
+- 📆 Shows 5-day weather forecast (hourly & daily)
+- ⚡ Clean, minimal UI with Tailwind CSS
+- 📱 Fully responsive for mobile and desktop
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend**: React.js, Tailwind CSS
+- **API**: OpenWeatherMap
+- **State Management**: React Hooks
+- **Utilities**: react-toastify for notifications
+
+## 🌐 Live Demo
+
+> [https://your-live-demo-link.vercel.app](https://your-live-demo-link.vercel.app)
+
+## 🧑‍💻 Getting Started
+
+```bash
+git clone https://github.com/yourusername/weatherapp_pro.git
+cd weatherapp_pro
+npm install
+npm run dev
