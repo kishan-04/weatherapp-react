@@ -20,7 +20,7 @@ A modern and responsive weather forecast web app built using **React.js**, **Tai
 
 ## 🌐 Live Demo
 
-> https://weatherapp-react-app-indol.vercel.app/
+> https://weatherapp-react-zeta-beige.vercel.app/
 
 ## 🧑‍💻 Getting Started
 
